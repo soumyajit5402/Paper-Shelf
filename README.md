@@ -6,7 +6,7 @@ A personal archive of research papers I've been reading and find insightful. Thi
 
 Currently, the repository includes:
 
-- **Dynamo: Amazon’s Highly Available Key-value Store**
+- [**Dynamo: Amazon’s Highly Available Key-value Store**](https://github.com/soumyajit5402/Paper-Shelf/blob/main/Dynamo-%20Amazon%E2%80%99s%20Highly%20Available%20Key-value%20Store.pdf)
 
 *Note: This list will be updated as I explore and add more papers.*
 
